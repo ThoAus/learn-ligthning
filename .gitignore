@@ -3,3 +3,4 @@
 *.yaml
 *.ckpt
 /01_MNIST/logs
+/01_MNIST/plots
