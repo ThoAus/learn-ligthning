@@ -1,0 +1,44 @@
+GPU available: False, used: False
+TPU available: False, using: 0 TPU cores
+IPU available: False, using: 0 IPUs
+HPU available: False, using: 0 HPUs
+c:\Users\thoma\anaconda3\Lib\site-packages\lightning\pytorch\loggers\wandb.py:391: There is a wandb run already in progress and newly created instances of `WandbLogger` will reuse this run. If this is not desired, call `wandb.finish()` before instantiating `WandbLogger`.
+GPU available: False, used: False
+TPU available: False, using: 0 TPU cores
+IPU available: False, using: 0 IPUs
+HPU available: False, using: 0 HPUs
+`Trainer.fit` stopped: `max_steps=100` reached.
+Learning rate set to 0.030199517204020192
+Restoring states from the checkpoint path at c:\Users\thoma\Documents\GitHub\learn-ligthning\02_MNIST_PY\.lr_find_c3c64966-a2ec-49b1-93f4-c45a5f74caf1.ckpt
+Restored all states from the checkpoint at c:\Users\thoma\Documents\GitHub\learn-ligthning\02_MNIST_PY\.lr_find_c3c64966-a2ec-49b1-93f4-c45a5f74caf1.ckpt
+C:\Users\thoma\AppData\Local\Temp\ipykernel_14448\3966358692.py:2: UserWarning: FigureCanvasAgg is non-interactive, and thus cannot be shown
+  fig.show()
+C:\Users\thoma\AppData\Local\Temp\ipykernel_14448\1529364680.py:2: UserWarning: FigureCanvasAgg is non-interactive, and thus cannot be shown
+  fig.show()
+c:\Users\thoma\anaconda3\Lib\site-packages\lightning\pytorch\loggers\wandb.py:391: There is a wandb run already in progress and newly created instances of `WandbLogger` will reuse this run. If this is not desired, call `wandb.finish()` before instantiating `WandbLogger`.
+GPU available: False, used: False
+TPU available: False, using: 0 TPU cores
+IPU available: False, using: 0 IPUs
+HPU available: False, using: 0 HPUs
+`Trainer.fit` stopped: `max_steps=100` reached.
+Learning rate set to 0.025118864315095822
+Restoring states from the checkpoint path at c:\Users\thoma\Documents\GitHub\learn-ligthning\02_MNIST_PY\.lr_find_b9b2be2b-0db9-4f96-bb08-ec0ca96299da.ckpt
+Restored all states from the checkpoint at c:\Users\thoma\Documents\GitHub\learn-ligthning\02_MNIST_PY\.lr_find_b9b2be2b-0db9-4f96-bb08-ec0ca96299da.ckpt
+C:\Users\thoma\AppData\Local\Temp\ipykernel_14448\1529364680.py:2: UserWarning: FigureCanvasAgg is non-interactive, and thus cannot be shown
+  fig.show()
+GPU available: False, used: False
+TPU available: False, using: 0 TPU cores
+IPU available: False, using: 0 IPUs
+HPU available: False, using: 0 HPUs
+
+  | Name     | Type               | Params
+------------------------------------------------
+0 | model    | Sequential         | 67.1 K
+1 | loss_fn  | CrossEntropyLoss   | 0
+2 | accuracy | MulticlassAccuracy | 0
+------------------------------------------------
+67.1 K    Trainable params
+0         Non-trainable params
+67.1 K    Total params
+0.268     Total estimated model params size (MB)
+`Trainer.fit` stopped: `max_epochs=25` reached.

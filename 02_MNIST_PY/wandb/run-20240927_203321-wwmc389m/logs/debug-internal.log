@@ -1,0 +1,17 @@
+{"time":"2024-09-27T20:33:21.5830785+02:00","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-09-27T20:33:21.5830785+02:00","level":"INFO","msg":"created symlink","path":"wandb\\run-20240927_203321-wwmc389m\\logs\\debug-core.log"}
+{"time":"2024-09-27T20:33:21.5842355+02:00","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-09-27T20:33:21.5842355+02:00","level":"INFO","msg":"created symlink","path":"wandb\\run-20240927_203321-wwmc389m\\logs\\debug-core.log"}
+{"time":"2024-09-27T20:33:21.5943208+02:00","level":"INFO","msg":"created new stream","id":"wwmc389m"}
+{"time":"2024-09-27T20:33:21.5946055+02:00","level":"INFO","msg":"stream: started","id":"wwmc389m"}
+{"time":"2024-09-27T20:33:21.5946055+02:00","level":"INFO","msg":"handler: started","stream_id":{"value":"wwmc389m"}}
+{"time":"2024-09-27T20:33:21.5946055+02:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"wwmc389m"}}
+{"time":"2024-09-27T20:33:21.5946055+02:00","level":"INFO","msg":"sender: started","stream_id":{"value":"wwmc389m"}}
+{"time":"2024-09-27T20:33:22.2485425+02:00","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-09-27T20:33:22.2556518+02:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-09-28T02:37:50.8561801+02:00","level":"INFO","msg":"api: retrying HTTP request, no error or response"}
+{"time":"2024-09-28T02:37:52.591821+02:00","level":"INFO","msg":"api: retrying HTTP request, no error or response"}
+{"time":"2024-09-28T02:37:52.9262696+02:00","level":"INFO","msg":"api: retrying HTTP request, no error or response"}
+{"time":"2024-09-28T08:51:54.9091885+02:00","level":"INFO","msg":"api: retrying HTTP request, no error or response"}
+{"time":"2024-09-28T08:51:54.9091885+02:00","level":"INFO","msg":"api: retrying HTTP request, no error or response"}
+{"time":"2024-09-28T08:52:58.1441316+02:00","level":"INFO","msg":"Pausing system monitor"}

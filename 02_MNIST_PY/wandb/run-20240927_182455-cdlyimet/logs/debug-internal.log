@@ -1,0 +1,14 @@
+{"time":"2024-09-27T18:24:55.4688872+02:00","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-09-27T18:24:55.4694177+02:00","level":"INFO","msg":"created symlink","path":"wandb\\run-20240927_182455-cdlyimet\\logs\\debug-core.log"}
+{"time":"2024-09-27T18:24:55.4701869+02:00","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-09-27T18:24:55.4701869+02:00","level":"INFO","msg":"created symlink","path":"wandb\\run-20240927_182455-cdlyimet\\logs\\debug-core.log"}
+{"time":"2024-09-27T18:24:55.4802527+02:00","level":"INFO","msg":"created new stream","id":"cdlyimet"}
+{"time":"2024-09-27T18:24:55.4807704+02:00","level":"INFO","msg":"stream: started","id":"cdlyimet"}
+{"time":"2024-09-27T18:24:55.4807704+02:00","level":"INFO","msg":"handler: started","stream_id":{"value":"cdlyimet"}}
+{"time":"2024-09-27T18:24:55.4807704+02:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"cdlyimet"}}
+{"time":"2024-09-27T18:24:55.4807704+02:00","level":"INFO","msg":"sender: started","stream_id":{"value":"cdlyimet"}}
+{"time":"2024-09-27T18:24:56.014508+02:00","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-09-27T18:24:56.0203496+02:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-09-27T18:27:23.4386583+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-09-27T18:33:35.9224929+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-09-27T18:33:35.9230065+02:00","level":"INFO","msg":"Pausing system monitor"}

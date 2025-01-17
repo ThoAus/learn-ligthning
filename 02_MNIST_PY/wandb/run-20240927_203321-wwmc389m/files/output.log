@@ -1,0 +1,16 @@
+
+  | Name     | Type               | Params
+------------------------------------------------
+0 | fc1      | Linear             | 62.8 K
+1 | fc2      | Linear             | 3.2 K
+2 | fc3      | Linear             | 820
+3 | fc4      | Linear             | 210
+4 | dropout  | Dropout            | 0
+5 | loss_fn  | CrossEntropyLoss   | 0
+6 | accuracy | MulticlassAccuracy | 0
+------------------------------------------------
+67.1 K    Trainable params
+0         Non-trainable params
+67.1 K    Total params
+0.268     Total estimated model params size (MB)
+`Trainer.fit` stopped: `max_epochs=25` reached.

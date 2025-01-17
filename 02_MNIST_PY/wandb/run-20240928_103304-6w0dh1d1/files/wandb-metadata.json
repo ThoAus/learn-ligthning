@@ -1,0 +1,27 @@
+{
+  "os": "Windows-10-10.0.22631-SP0",
+  "python": "3.11.7",
+  "startedAt": "2024-09-28T08:33:04.821387Z",
+  "program": "c:\\Users\\thoma\\Documents\\GitHub\\learn-ligthning\\02_MNIST_PY\\01_training.ipynb",
+  "email": "th.ausserer@mci4me.at",
+  "root": ".",
+  "host": "ZBook_Thomas",
+  "username": "thoma",
+  "executable": "c:\\Users\\thoma\\anaconda3\\python.exe",
+  "codePathLocal": "01_training.ipynb",
+  "cpu_count": 8,
+  "cpu_count_logical": 16,
+  "disk": {
+    "/": {
+      "total": "1022998081536",
+      "used": "152275427328"
+    }
+  },
+  "memory": {
+    "total": "33585221632"
+  },
+  "cpu": {
+    "count": 8,
+    "countLogical": 16
+  }
+}

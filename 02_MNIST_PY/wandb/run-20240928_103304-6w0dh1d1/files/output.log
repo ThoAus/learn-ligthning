@@ -1,0 +1,16 @@
+GPU available: False, used: False
+TPU available: False, using: 0 TPU cores
+IPU available: False, using: 0 IPUs
+HPU available: False, using: 0 HPUs
+
+  | Name     | Type               | Params
+------------------------------------------------
+0 | model    | Sequential         | 67.1 K
+1 | loss_fn  | CrossEntropyLoss   | 0
+2 | accuracy | MulticlassAccuracy | 0
+------------------------------------------------
+67.1 K    Trainable params
+0         Non-trainable params
+67.1 K    Total params
+0.268     Total estimated model params size (MB)
+`Trainer.fit` stopped: `max_epochs=25` reached.

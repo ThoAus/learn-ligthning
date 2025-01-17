@@ -1,0 +1,12 @@
+{"time":"2024-09-27T18:52:24.8977056+02:00","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-09-27T18:52:24.8977056+02:00","level":"INFO","msg":"created symlink","path":"wandb\\run-20240927_185224-tue6jcmz\\logs\\debug-core.log"}
+{"time":"2024-09-27T18:52:24.905303+02:00","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-09-27T18:52:24.905303+02:00","level":"INFO","msg":"created symlink","path":"wandb\\run-20240927_185224-tue6jcmz\\logs\\debug-core.log"}
+{"time":"2024-09-27T18:52:24.9139835+02:00","level":"INFO","msg":"created new stream","id":"tue6jcmz"}
+{"time":"2024-09-27T18:52:24.9176497+02:00","level":"INFO","msg":"stream: started","id":"tue6jcmz"}
+{"time":"2024-09-27T18:52:24.9176497+02:00","level":"INFO","msg":"handler: started","stream_id":{"value":"tue6jcmz"}}
+{"time":"2024-09-27T18:52:24.9176497+02:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"tue6jcmz"}}
+{"time":"2024-09-27T18:52:24.9176497+02:00","level":"INFO","msg":"sender: started","stream_id":{"value":"tue6jcmz"}}
+{"time":"2024-09-27T18:52:25.4613572+02:00","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-09-27T18:52:25.4676548+02:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-09-27T18:58:12.4856225+02:00","level":"INFO","msg":"Pausing system monitor"}

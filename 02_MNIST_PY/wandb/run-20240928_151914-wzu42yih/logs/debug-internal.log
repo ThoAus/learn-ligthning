@@ -1,0 +1,27 @@
+{"time":"2024-09-28T15:19:14.9711826+02:00","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-09-28T15:19:14.9711826+02:00","level":"INFO","msg":"created symlink","path":"wandb\\run-20240928_151914-wzu42yih\\logs\\debug-core.log"}
+{"time":"2024-09-28T15:19:14.9823767+02:00","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-09-28T15:19:14.9826111+02:00","level":"INFO","msg":"created symlink","path":"wandb\\run-20240928_151914-wzu42yih\\logs\\debug-core.log"}
+{"time":"2024-09-28T15:19:15.0261338+02:00","level":"INFO","msg":"created new stream","id":"wzu42yih"}
+{"time":"2024-09-28T15:19:15.0280109+02:00","level":"INFO","msg":"stream: started","id":"wzu42yih"}
+{"time":"2024-09-28T15:19:15.0262695+02:00","level":"INFO","msg":"handler: started","stream_id":{"value":"wzu42yih"}}
+{"time":"2024-09-28T15:19:15.0280109+02:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"wzu42yih"}}
+{"time":"2024-09-28T15:19:15.0280109+02:00","level":"INFO","msg":"sender: started","stream_id":{"value":"wzu42yih"}}
+{"time":"2024-09-28T15:19:15.8433352+02:00","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-09-28T15:19:15.8683752+02:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-09-28T15:19:21.4518654+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-09-28T15:19:21.6906226+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-09-28T15:19:21.6996308+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-09-28T15:19:21.7578398+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-09-28T15:19:28.194082+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-09-28T15:19:37.5165097+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-09-28T15:25:10.0738257+02:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-09-28T15:25:10.0738257+02:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-09-28T15:25:10.4624136+02:00","level":"WARN","msg":"No job ingredients found, not creating job artifact"}
+{"time":"2024-09-28T15:25:10.4624136+02:00","level":"WARN","msg":"No source type found, not creating job artifact"}
+{"time":"2024-09-28T15:25:10.4624136+02:00","level":"INFO","msg":"sender: sendDefer: no job artifact to save"}
+{"time":"2024-09-28T15:25:12.2108931+02:00","level":"INFO","msg":"stream: closing","id":"wzu42yih"}
+{"time":"2024-09-28T15:25:12.2108931+02:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"wzu42yih"}}
+{"time":"2024-09-28T15:25:12.2108931+02:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"wzu42yih"}}
+{"time":"2024-09-28T15:25:12.2124836+02:00","level":"INFO","msg":"sender: closed","stream_id":{"value":"wzu42yih"}}
+{"time":"2024-09-28T15:25:12.2187423+02:00","level":"INFO","msg":"stream: closed","id":"wzu42yih"}

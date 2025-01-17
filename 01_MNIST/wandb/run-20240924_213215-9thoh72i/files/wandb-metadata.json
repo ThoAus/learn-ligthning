@@ -1,0 +1,27 @@
+{
+  "os": "Windows-10-10.0.22631-SP0",
+  "python": "3.11.7",
+  "startedAt": "2024-09-24T19:32:15.312491Z",
+  "program": "c:\\Users\\thoma\\Documents\\GitHub\\learn-ligthning\\01_MNIST\\07_MNIST_try_wandb.ipynb",
+  "email": "th.ausserer@mci4me.at",
+  "root": "c:\\Users\\thoma\\Documents\\GitHub\\learn-ligthning\\01_MNIST",
+  "host": "ZBook_Thomas",
+  "username": "thoma",
+  "executable": "c:\\Users\\thoma\\anaconda3\\python.exe",
+  "codePathLocal": "07_MNIST_try_wandb.ipynb",
+  "cpu_count": 8,
+  "cpu_count_logical": 16,
+  "disk": {
+    "/": {
+      "total": "1022998081536",
+      "used": "150537457664"
+    }
+  },
+  "memory": {
+    "total": "33585221632"
+  },
+  "cpu": {
+    "count": 8,
+    "countLogical": 16
+  }
+}
